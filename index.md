@@ -63,7 +63,7 @@ This project exams tumor statistics and predicts if it is Cancerous or Non-Cance
 ### Project 7 - Market Segmentation Project
 [Link to project repo(Jupyter Notebook)](https://github.com/DominickTDS/Market_Segmentation)
 
-For this project a K-means clustering algorithm was used to segment customer data into distinct groups based on personal information, products they purchase, and how they purchase. This was my first clustering and unsupervised learning project. I was able to learn more about the process and able to get good results. Below is the Principal Component Analysis from my customer segmentation that visualizes the results. Also, I have provided a sample analysis of customer income by cluster. This grapgh was developed using Seaborn within Python
+For this project a K-means clustering algorithm was used to segment customer data into distinct groups based on personal information, products they purchase, and how they purchase. This was my first clustering and unsupervised learning project. I was able to learn more about the process and able to get good results. Below is the Principal Component Analysis from my customer segmentation that visualizes the results. Also, I have provided a sample analysis of customer income by cluster. This graph was developed using Seaborn within Python
 
 ![](https://github.com/DominickTDS/Market_Segmentation/blob/main/market_seg_cluster.JPG?raw=true)
 
