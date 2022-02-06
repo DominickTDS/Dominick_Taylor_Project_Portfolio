@@ -18,7 +18,7 @@ This was a coding project completed in my Intro to programming course. This proj
 ### Project 2 - Text and Word Counter
 [Link to project repo](https://github.com/DominickTDS/Word_Counter)
 
-This program will process a .txt file: (Gettysburg.txt was used in this exampple) and calculate the total words, and output the number of occurrences of each word in the file to another file. This was a coding project completed in my Intro to programming course. Again, this program highlights Python coding skills. This type of task is also useful for NLP project activities. 
+This program will process a .txt file: (Gettysburg.txt was used in this example) and calculate the total words, and output the number of occurrences of each word in the file to another file. This was a coding project completed in my Intro to programming course. Again, this program highlights Python coding skills. This type of task is also useful for NLP project activities. 
 
 - This program creates a running dictionary of all the text within the input file
 - It then breaks out the total number of words within the dictionary and a count the occurances of the word
