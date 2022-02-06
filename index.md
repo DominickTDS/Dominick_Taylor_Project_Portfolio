@@ -11,5 +11,6 @@ This was a coding project completed in my Intro to programming course. This proj
 - Enter a valid country
 - Program retrieves Weather information for that location
 
-![](/blob/main/weather_app_output.JPG)
+![](https://github.com/DominickTDS/Dominick_Taylor_Project_Portfolio/blob/main/weather_app_output.JPG?raw=true)
+
 
