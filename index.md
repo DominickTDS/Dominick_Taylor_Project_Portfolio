@@ -49,7 +49,7 @@ For this project I gathered Twitter data from US senators and classified their r
 
 Here I utilized Auto Insurance claim data to train several machine learning models to detect fraudulent activity. Data collection, data preparation, exploration, and model development were all completed as a part of this project. This project helped me better understand different modeling concepts such as Decision Tree, Random Forest, and Gradient Boost
 
-![Sample Classification Report from Fraud Detection Boosted Model](https://github.com/DominickTDS/Auto_Insurance_Fraud_Detection/blob/main/Fraud_Detection_report.JPG?raw=true)
+
 
 
 
@@ -57,6 +57,8 @@ Here I utilized Auto Insurance claim data to train several machine learning mode
 [Link to project repo(Jupyter Notebook)](https://github.com/DominickTDS/Cancer_Diagnosis_Project)
 
 This project exams tumor statistics and predicts if it is Cancerous or Non-Cancerous. It utilizes several machine learning models to accurately predict the target. Again, Data collection, data preparation, exploration, and model development were all completed as a part of this project. For a project like this accuracy is extremely important. I was able to achieve great results.
+![](https://github.com/DominickTDS/Cancer_Diagnosis_Project/blob/main/cancer_model_results.JPG?raw=true)
+
 
 
 
