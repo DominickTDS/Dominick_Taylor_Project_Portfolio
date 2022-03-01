@@ -84,7 +84,11 @@ The topic for this project is to simulate the segmentation and classification as
 ### Project 9 - NBA Playtype (Style) Analysis Project
 [Link to project repo(Jupyter Notebook)](https://github.com/DominickTDS/NBA_Playtype_Analysis)
 
-The topic of this project will be to assess the style of play and defensive measurables of NBA teams to predict if it can reach the playoffs. Also, to evaluate what playtype is conducive to winning basketball. I was able to show that the style of play can be a solid predictor of playoff teams and helped to illustrate that the game is not that simplistic. It is important that teams adapt and run some type of offense to constantly win. The models I constructed for this project include logistic regression, decision trees, gradient boost, and ada boost. The data I will be utilizing for this project is a collection of data scrapped from NBA.com and NBA reference. The code for data collection can also be found in the project repo. 
+The topic of this project will be to assess the style of play and defensive measurables of NBA teams to predict if it can reach the playoffs. Also, to evaluate what playtype is conducive to winning basketball. I was able to show that the style of play can be a solid predictor of playoff teams and helped to illustrate that the game is not that simplistic. It is important that teams adapt and run some type of offense to constantly win. 
+
+- The models I constructed for this project include: logistic regression, decision trees, gradient boost, and ada boost. 
+- The data I utilized for this project is a collection of data scrapped from NBA.com and NBA reference. 
+- The code for data collection can also be found in the project repo. 
 
 
 
